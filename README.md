@@ -305,3 +305,4 @@ curl --location --request GET 'http://{{[ec2_public_ip]}}:8080/student'
 Get `ec2_public_ip` from [EC2 Instance](#launch-ec2)
  
 
+This is the test commit to run the pipeline. 
